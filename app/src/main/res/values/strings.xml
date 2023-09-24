@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Falling words</string>
+    <string name="connection_error">Plz, check your internet connection and try again!</string>
+    <string name="an_error">To get words an error occurred!</string>
+    <string name="balloons_image">BalloonsImage</string>
+    <string name="box_image">BoxImage</string>
+    <string name="beranding">Digisun</string>
+    <string name="try_again">Try again</string>
+    <string name="splash_app_name">Falling\nwords</string>
+    <string name="backgtround_image">Background screen</string>
+    <string name="about_game">About game</string>
+    <string name="game_info">Sokot lexmatics is a small educational game for girls.
+When this word is displayed, the translation of Andres Bandomaz will fall to the bottom of the page.
+The player must identify whether the word that falls is the correct translation or the last one.
+A timer starts when the word falls</string>
+    <string name="to_start_game">Swipe down to start the game!</string>
+    <string name="question">Question:</string>
+    <string name="run_time_status">Status:</string>
+    <string name="no_answer">No answer</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="wrong_bucket_image">Wrong bucket image</string>
+    <string name="correct_bucket_image">Correct bucket image</string>
+    <string name="normal_bucket_image">Normal bucket image</string>
+</resources>
