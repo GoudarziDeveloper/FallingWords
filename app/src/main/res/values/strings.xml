@@ -22,4 +22,6 @@ A timer starts when the word falls</string>
     <string name="wrong_bucket_image">Wrong bucket image</string>
     <string name="correct_bucket_image">Correct bucket image</string>
     <string name="normal_bucket_image">Normal bucket image</string>
+    <string name="time">Time:</string>
+    <string name="result_time">Your Time(min)</string>
 </resources>

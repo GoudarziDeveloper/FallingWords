@@ -35,7 +35,7 @@ fun RunTimeInfo(questionNumber: Int, question: String, userAnswer: Boolean?, tim
         }
         Column(modifier = Modifier.weight(sizing.half)) {
             Text(
-                text = time,
+                text = stringResource(id = R.string.time) + " " + time,
                 fontWeight = FontWeight.Bold,
                 fontSize = MaterialTheme.typography.titleLarge.fontSize
             )

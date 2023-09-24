@@ -47,7 +47,7 @@ fun ResultBar(
     val sizing = LocalSizing.current
     Canvas(modifier = modifier) {
         val correctWidth = (correctAnswerWidthRatio.value * size.width) / questionCount
-        val noAnswerWidth = (correctAnswerWidthRatio.value * size.width) / questionCount + correctWidth
+        val noAnswerWidth = (noAnswerWidthRatio.value * size.width) / questionCount + correctWidth
         drawRoundRect(
             color = wrongAnswerColor,
             size = Size(width = size.width, height = size.height),

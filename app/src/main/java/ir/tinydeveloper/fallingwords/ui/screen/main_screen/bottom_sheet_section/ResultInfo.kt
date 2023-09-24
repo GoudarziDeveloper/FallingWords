@@ -18,6 +18,7 @@ import ir.tinydeveloper.fallingwords.ui.screen.component.ResultBarFooter
 import ir.tinydeveloper.fallingwords.ui.screen.component.ResultBox
 import ir.tinydeveloper.fallingwords.ui.theme.LocalSizing
 import ir.tinydeveloper.fallingwords.ui.theme.LocalSpacing
+import ir.tinydeveloper.fallingwords.utils.toShowTime
 
 @Composable
 fun ResultInfo(appViewModel: AppViewModel){
@@ -65,6 +66,12 @@ fun ResultInfo(appViewModel: AppViewModel){
                 modifier = Modifier.weight(1f),
                 value = state.wrongAnswer.toString(),
                 title = stringResource(id = R.string.incorrect),
+                spacing = spacing
+            )
+            ResultBox(
+                modifier = Modifier.weight(1f),
+                value = state.runningTime.toShowTime(),
+                title = stringResource(id = R.string.result_time),
                 spacing = spacing
             )
         }
