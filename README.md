@@ -2,8 +2,7 @@
 Falling Words is a fun program to improve language for children, this program is made with Android Studio and Kotlin language, Compose is used to develop the user interface, and clean architecture and MVVM are used to make the codes more readable.
 
 ## Preview
- ![falling_words](https://github.com/GoudarziDeveloper/FallingWords/assets/81271344/a654abf7-be03-4ca5-936a-3f1a790fd2e7)
-
+![falling_words](https://github.com/GoudarziDeveloper/FallingWords/assets/81271344/05b9825d-aa3d-49b3-8ae7-96cb252012f9)
 
 ## Why?
 Simplifying learning for children and demonstrating the developer's individual abilities in programming and software engineering
