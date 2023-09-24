@@ -4,6 +4,9 @@ Falling Words is a fun program to improve language for children, this program is
 ## Preview
 ![FallingWordsPreview](https://github.com/GoudarziDeveloper/FallingWords/assets/81271344/dc4c7893-ed6e-4ea9-a222-15a4785925c8)
 
+## Install
+https://github.com/GoudarziDeveloper/FallingWords/blob/master/falling_words.apk
+
 ## Why?
 Simplifying learning for children and demonstrating the developer's individual abilities in programming and software engineering
 
